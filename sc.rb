@@ -13,5 +13,5 @@ capitals = {"MA" => "Boston",
 given = "Massachusetts"
 puts capitals [states[given]]
 
-end 
+
 
