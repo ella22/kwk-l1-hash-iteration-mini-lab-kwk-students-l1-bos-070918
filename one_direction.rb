@@ -9,3 +9,6 @@ sum = 0
 one_direction.each do |name, age|
   sum += age
 end 
+
+
+put sum / one_direction.count
