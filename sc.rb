@@ -1,5 +1,4 @@
 
-​
 states = {"Massachusetts" => "MA",
      "Wisconsin" => "WI",
      "New Jersey" => "NJ",
@@ -11,7 +10,7 @@ capitals = {"MA" => "Boston",
 	 		"CO" => "Denver"}
 	 		
 given = "Massachusetts"
-puts capitals [states[given]]
+puts capitals[states[given]]
 
 
 
