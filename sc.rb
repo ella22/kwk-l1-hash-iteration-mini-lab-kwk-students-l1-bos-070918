@@ -30,6 +30,8 @@ capitals = {"MA" => "Boston",
 	 		      "CO" => "Denver", 
 	 		      "ME" => "Augusta"}
 	 		      
+	 		      
+	puts "What is the capital of the state "
 	 		      given = "Maine"
 	 		      if capitals[states[given]].nil?
 	 		        puts "Unknown"
