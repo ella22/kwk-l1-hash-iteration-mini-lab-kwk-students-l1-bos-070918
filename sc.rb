@@ -2,7 +2,7 @@
 states = {"Massachusetts" => "MA",
           "Wisconsin" => "WI",
           "New Jersey" => "NJ",
-          "Colorado" => "CO"}
+          "Colorado" => "CO", }
 
 capitals = {"MA" => "Boston",
             "WI" => "Madison",
