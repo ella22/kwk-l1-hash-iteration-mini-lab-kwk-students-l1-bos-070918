@@ -2,14 +2,16 @@
 states = {"Massachusetts" => "MA",
           "Wisconsin" => "WI",
           "New Jersey" => "NJ",
-          "Colorado" => "CO", }
+          "Colorado" => "CO", 
+          "Maine"=> "ME"}
 
 capitals = {"MA" => "Boston",
             "WI" => "Madison",
 			      "NJ" => "Trenton",
-	 		      "CO" => "Denver"}
+	 		      "CO" => "Denver", 
+	 		      "ME" => "Augusta"}
 	 		    
-given = "New Jersey"
+given = "Maine"
 puts capitals[states[given]]
 
 
