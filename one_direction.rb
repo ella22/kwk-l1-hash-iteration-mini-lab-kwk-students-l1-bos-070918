@@ -6,4 +6,4 @@
 }
 
  one_direction.each do |name,age|
-   puts "#{name} is #{age} years old. "
+   puts "#{name} is #{age} years old."
