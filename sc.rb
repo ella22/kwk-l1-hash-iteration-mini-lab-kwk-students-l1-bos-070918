@@ -34,5 +34,5 @@ capitals = {"MA" => "Boston",
 	 		      if capitals[states[given]].nil?
 	 		        puts "Unknown"
 	 		      else 
-	 		        puts 
+	 		        puts capitals[states[given]]
 
