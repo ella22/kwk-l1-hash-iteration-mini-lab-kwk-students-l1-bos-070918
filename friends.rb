@@ -10,3 +10,4 @@ character_list = {
 
 character_list.each do |character_name, character_trait|
   puts "Character Name: #{character_name}"
+end 
