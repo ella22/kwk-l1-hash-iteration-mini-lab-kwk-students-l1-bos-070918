@@ -30,7 +30,7 @@ capitals = {"MA" => "Boston",
 	 		      "CO" => "Denver", 
 	 		      "ME" => "Augusta"}
 	 		      
-	 		      given = "North Alaska"
+	 		      given = "Maine"
 	 		      if capitals[states[given]].nil?
 	 		        puts "Unknown"
 	 		      else 
