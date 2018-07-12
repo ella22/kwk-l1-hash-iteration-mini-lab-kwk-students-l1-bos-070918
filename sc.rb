@@ -10,8 +10,7 @@ capitals = {"MA" => "Boston",
 			      "NJ" => "Trenton",
 	 		      "CO" => "Denver", 
 	 		      "ME" => "Augusta"}
-puts "What state do you want to know the capital of?"	 		    
-given = gets.chomp
+given = "Massachusetts"
 puts capitals[states[given]]
 
 
