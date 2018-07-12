@@ -3,6 +3,8 @@ one_direction = { "Zayn"=> 25,
 "Louis" => 26, 
 "Harry" => 24, 
 "Niall" => 24
+
+ages = {25, 24, 26, 24, 24, 
 }
  one_direction.each do |x|
    puts x 
