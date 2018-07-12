@@ -11,4 +11,4 @@ one_direction.each do |name, age|
 end 
 
 
-put sum / one_direction.count
+puts sum / one_direction.count
