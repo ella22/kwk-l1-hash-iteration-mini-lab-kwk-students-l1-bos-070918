@@ -11,7 +11,7 @@ capitals = {"MA" => "Boston",
 	 		      "CO" => "Denver", 
 	 		      "ME" => "Augusta"}
 puts "What state do you want to know the capital of?"	 		    
-given = "Maine"
+given = 
 puts capitals[states[given]]
 
 
