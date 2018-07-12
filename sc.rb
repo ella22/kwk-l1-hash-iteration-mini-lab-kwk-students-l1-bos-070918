@@ -32,9 +32,9 @@ capitals = {"MA" => "Boston",
 	 		      
 	 		      
 	puts "What state would you like to know the capital of? "
-	 		      given = 
+	 		      given = gets.chomp
 	 		      if capitals[states[given]].nil?
-	 		        puts "Unknown"
+	 		        puts "Im sorry, I do not know the capital of the state you requested :(."
 	 		      else 
 	 		        puts capitals[states[given]]
 	 		        
