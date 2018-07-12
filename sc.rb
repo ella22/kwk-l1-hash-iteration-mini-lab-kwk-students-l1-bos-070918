@@ -1,4 +1,4 @@
-states_capitals = {}
+
 ​
 states = {"Massachusetts" => "MA",
      "Wisconsin" => "WI",
