@@ -10,6 +10,8 @@ capitals = {"MA" => "Boston",
 			      "NJ" => "Trenton",
 	 		      "CO" => "Denver", 
 	 		      "ME" => "Augusta"}
+	 		      
+	 		      
 given = "Massachusetts"
 puts capitals[states[given]]
 
