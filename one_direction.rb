@@ -1,7 +1,4 @@
-one_direction = { "Zayn", "Liam","Louis", "Harry",  "Niall", 
 
-ages = {25, 24, 26, 24, 24, 
-}
  one_direction.each do |x|
    puts x 
    
