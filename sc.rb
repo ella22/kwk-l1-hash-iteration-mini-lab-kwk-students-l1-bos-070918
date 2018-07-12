@@ -37,6 +37,7 @@ capitals = {"MA" => "Boston",
 	 		        puts "Im sorry, I do not know the capital of the state you requested :(."
 	 		      else 
 	 		        puts capitals[states[given]]
+	 		      capital = capitals[states[given]]
 	 		        puts "The capital of #{given} is #{state}."
 	 		        
 	 		      end 
