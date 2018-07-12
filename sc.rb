@@ -15,7 +15,7 @@ capitals = {"MA" => "Boston",
 	 given = gets.chomp
 puts capitals[states[given]]
 capital = capitals[states[given]]
-
+puts "The capital of #{"
 
 
 
